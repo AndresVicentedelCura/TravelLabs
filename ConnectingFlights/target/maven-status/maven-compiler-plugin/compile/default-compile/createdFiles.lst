@@ -1,0 +1,17 @@
+com\ryanair\ws\connectingflights\flights\FlightPOJO.class
+com\ryanair\ws\connectingflights\microservices\pojo\MonthFlights.class
+com\ryanair\ws\connectingflights\microservices\pojo\DayFlights.class
+com\ryanair\ws\connectingflights\utils\Utils.class
+com\ryanair\ws\connectingflights\microservices\RyanairServices.class
+com\ryanair\ws\connectingflights\microservices\RyanairServicesImpl.class
+com\ryanair\ws\connectingflights\microservices\pojo\FlightInfo.class
+com\ryanair\ws\connectingflights\routes\RoutesInfo.class
+com\ryanair\ws\connectingflights\microservices\MicroServicesConsumer$1.class
+com\ryanair\ws\connectingflights\microservices\MicroServicesConsumer.class
+com\ryanair\ws\connectingflights\service\ConnectingFlightsService.class
+com\ryanair\ws\connectingflights\service\ConnectingFlightsServiceImpl.class
+com\ryanair\ws\connectingflights\microservices\pojo\Route.class
+com\ryanair\ws\connectingflights\controller\ConnectionsController.class
+com\ryanair\ws\connectingflights\flights\LegPOJO.class
+com\ryanair\ws\connectingflights\App.class
+com\ryanair\ws\connectingflights\routes\RoutesLoader.class
